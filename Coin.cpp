@@ -1,4 +1,4 @@
-#include "Koichi_Nakata_Coin.h"
+#include "Coin.h"
 #include <iostream>
 #include <string>
 #include <stdlib.h>
